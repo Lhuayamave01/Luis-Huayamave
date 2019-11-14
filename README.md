@@ -1,7 +1,7 @@
 # Luis-Huayamave
 <html>
 <head>
-<title> Proyecto: Página web </title>
+<title>Proyecto: Página web </title>
 </head>   
 <h1><font color="yellow" face="Time News Roman"> HOLA A TODOS, BIENVENIDOS</font></h1>
 <body bgcolor="black">
